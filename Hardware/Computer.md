@@ -15,7 +15,7 @@
 ---
 
 ## Zusätzliche Informationen
-- Fujitsu Mini-PC
+- Kompakter Mini-PC
 - Läuft stabil mit Hyper-V und mehreren VMs gleichzeitig  
 - Geringer Stromverbrauch (ca. 25–30 W im Betrieb)
 
