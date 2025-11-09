@@ -15,14 +15,14 @@
 ---
 
 ## Zusätzliche Informationen
-- Kompakter Mini-PC
+- Fujitsu Mini-PC
 - Läuft stabil mit Hyper-V und mehreren VMs gleichzeitig  
 - Geringer Stromverbrauch (ca. 25–30 W im Betrieb)
 
 ---
 
 ## Einsatz im Homelab
-Dieser Rechner dient als **Hostsystem** für das Hyper-V Lab mit Windows Server 2025 und mehreren Windows 11 Clients.
+Dieser Rechner dient als Hostsystem für das Hyper-V Lab mit Windows Server 2025 und mehreren Windows 11 Clients.
 Er stellt die Virtualisierungsumgebung und das interne Netzwerk bereit.
 
 
