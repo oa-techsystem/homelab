@@ -1,14 +1,28 @@
-Fujitsu Esprimo Q558 
-Intel Core i3-8100
-16 GB Ram (2x 8GB) DDR4-2666 Dual Channel
-250 GB SSD
-USB 3 Port (2x)
-USB 2 Port (6x)
-Display-Port (2x)
-DVI (1x)
-LAN (1x)
-Audio Ausgang (2x)
-Audio Eingang (1x)
-WiFi 6 (Ugreen AX900)
+# Hardware – Fujitsu Esprimo Q558
 
-OS: MS Windows 11 Pro
+## Übersicht
+| Komponente | Beschreibung |
+|-------------|--------------|
+| **Modell** | Fujitsu Esprimo Q558 |
+| **CPU** | Intel Core i3-8100 |
+| **RAM** | 16 GB DDR4-2666 (2×8 GB, Dual Channel) |
+| **SSD** | 250 GB |
+| **Netzwerk** | 1× LAN, WiFi 6 (Ugreen AX900) |
+| **Anschlüsse** | 2× USB 3.0, 6× USB 2.0, 2× DisplayPort, 1× DVI |
+| **Audio** | 2× Ausgang, 1× Eingang |
+| **Betriebssystem** | Windows 11 Pro |
+
+---
+
+## Zusätzliche Informationen
+- Kompakter Mini-PC
+- Läuft stabil mit Hyper-V und mehreren VMs gleichzeitig  
+- Geringer Stromverbrauch (ca. 25–30 W im Betrieb)
+
+---
+
+## Einsatz im Homelab
+Dieser Rechner dient als **Hostsystem** für das Hyper-V Lab mit Windows Server 2025 und mehreren Windows 11 Clients.
+Er stellt die Virtualisierungsumgebung und das interne Netzwerk bereit.
+
+
