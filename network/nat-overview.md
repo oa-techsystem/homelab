@@ -20,9 +20,9 @@
 3. Antwortpakete kommen zurück zum Server und werden wieder an die interne VM weitergeleitet.
 
 ## 4. Hinweise
-- NAT muss **aktiviert** sein (PowerShell oder ICS).  
+- NAT muss **aktiviert** sein (Erfolgte über PowerShell).  
 - Interne VMs dürfen nur **Server als Gateway** nutzen.  
-- IPv6-Internetzugang läuft über NIC1 direkt, optional kann NAT auch IPv6 weiterleiten.  
+
 
 
 
