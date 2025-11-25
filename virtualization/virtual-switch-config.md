@@ -3,7 +3,7 @@
 ## 1. Externer vSwitch
 | Switch Name      | Typ    | Zugewiesene NIC | Zweck              |
 |------------------|--------|-----------------|--------------------|
-| External vSwitch | Extern | Host WLAN / LAN | Zugriff der VMs aufs Internet / Heimnetz |
+| External vSwitch | Extern | Host WLAN / LAN | Zugriff der VMs auf das Internet |
 
 ## 2. Interner vSwitch
 | Switch Name      | Typ     | Zugewiesene NIC | Zweck               |
@@ -15,3 +15,4 @@
 - Gateway für internes Subnetz: 192.168.137.1  
 - DNS-Server für Clients: Server vNIC2  
 - Internet funktioniert über NAT vom Server
+
