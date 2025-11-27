@@ -18,6 +18,7 @@
 
 ---
 
+
 ## 2. Netzwerkübersicht
 
 ### NIC 1 – Internes Homelab-Netz (192.168.137.0/24)
