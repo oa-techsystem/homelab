@@ -3,7 +3,7 @@
 ## 1. Übersicht
 - Primärzone: `acme.local`  
 - Reverse Zone: 192.168.137.x  
-- Weiterleitungen: Cloudflare (1.1.1.1), Google (8.8.8.8)  
+- Weiterleitungen: Google (8.8.8.8)  
 
 ## 2. Installation
 1. Server-Manager → Rollen und Features → DNS Server  
