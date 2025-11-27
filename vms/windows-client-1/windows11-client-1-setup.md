@@ -64,7 +64,7 @@
 |------------|------|
 | **Domäne** | `acme.local` |
 | **Domain Controller** | `SRV-DC1.acme.local` |
-| **Join-Status** | ✓ Erfolgreich |
+| **Join-Status** | Erfolgreich |
 
 **Durchgeführt über:**  
 `Systemsteuerung → System → Erweiterte Systemeinstellungen → Computername → Domäne beitreten`
@@ -74,14 +74,15 @@
 ## 5. Funktionstests
 | Test | Ergebnis |
 |------|----------|
-| `ping acme.local` | ✓ Erfolgreich |
-| `ping 192.168.137.1` | ✓ Gateway erreichbar |
-| `nslookup acme.local` | ✓ DNS korrekt |
-| Anmeldung mit Domänenkonto | ✓ Erfolgreich |
+| `ping acme.local` | Erfolgreich |
+| `ping 192.168.137.1` | Gateway erreichbar |
+| `nslookup acme.local` | DNS korrekt |
+| Anmeldung mit Domänenkonto | Erfolgreich |
 
 ---
 
 ## 📝 6. Zusammenfassung
 Client 1 ist vollständig eingerichtet, hat eine feste IP, nutzt den Windows Server als DNS und Gateway, ist erfolgreich der Domäne beigetreten und kommuniziert fehlerfrei im internen Netzwerk (`192.168.137.0/24`).
+
 
 
