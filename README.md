@@ -4,7 +4,7 @@ Dieses Repository dokumentiert mein **Homelab** unter **Hyper-V** auf einem **Wi
 
 Ziel ist es, ein kleines, funktionsfähiges Netzwerk mit folgenden Komponenten aufzubauen: **Domain Controller, DNS, DHCP, NAT** und mehrere Clients.  
 
-Der Windows Server wurde zu einem Domain Controller hochgestuft, und zwei Windows Clients wurden erfolgreich in die Domäne eingebunden. Der Internetzugang lief über den Server. 
+Der Windows Server wurde zu einem Domain Controller hochgestuft, und zwei Windows Clients wurden erfolgreich in die Domäne eingebunden. Der Internetzugang läuft über den Server. 
 
 
 ---
