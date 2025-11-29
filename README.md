@@ -1,7 +1,11 @@
 # Homelab Windows Server & Clients
 
-Dieses Repository dokumentiert mein Homelab unter Hyper-V auf einem Windows 11 Host. 
-Ziel ist es, ein kleines, funktionsfähiges Netzwerk mit Domain Controller, DNS, DHCP, NAT und mehreren Clients aufzubauen.
+Dieses Repository dokumentiert mein **Homelab** unter **Hyper-V** auf einem **Windows 11 Host**.  
+
+Ziel ist es, ein kleines, funktionsfähiges Netzwerk mit folgenden Komponenten aufzubauen: **Domain Controller, DNS, DHCP, NAT** und mehrere Clients.  
+
+Der Windows Server wurde zu einem Domain Controller hochgestuft, und zwei Windows Clients wurden erfolgreich in die Domäne eingebunden.
+
 
 ---
 
