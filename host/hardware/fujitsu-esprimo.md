@@ -8,7 +8,7 @@
 | **RAM** | 16 GB DDR4-2666 (2×8 GB, Dual Channel) |
 | **SSD** | 250 GB |
 | **Netzwerk** | 1× LAN, WiFi 6 (Ugreen AX900) |
-| **Anschlüsse** | 2× USB 3.0, 6× USB 2.0, 2× DisplayPort, 1× DVI |
+| **Anschlüsse** | 4× USB 3.0, 4× USB 2.0, 2× DisplayPort, 1× DVI |
 | **Audio** | 2× Ausgang, 1× Eingang |
 | **Betriebssystem** | Windows 11 Pro |
 
